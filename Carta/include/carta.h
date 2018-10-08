@@ -3,6 +3,7 @@
 class carta{
 public:
     carta(int,char);
+    void Print();
 protected:
     int numero;
     char palo;
