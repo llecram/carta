@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539016499 source:d:\programas hechos por mi\carta\main.cpp
+	<iostream>
+	<vector>
+	"carta.h"
+
+1539016611 source:d:\programas hechos por mi\carta\src\carta.cpp
+	"carta.h"
+
+1539016611 d:\programas hechos por mi\carta\include\carta.h
+
